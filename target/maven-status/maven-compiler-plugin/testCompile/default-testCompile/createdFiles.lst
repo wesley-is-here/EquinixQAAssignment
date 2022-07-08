@@ -1,0 +1,7 @@
+stepDefinitions\WikiHome.class
+testRunner\TestRunner.class
+Pages\WikiHomePage.class
+stepDefinitions\_Hooks.class
+Pages\LoginPage.class
+stepDefinitions\Login.class
+Pages\BasePage.class

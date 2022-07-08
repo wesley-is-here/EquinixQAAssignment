@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publications
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xml.dzone.org/schema/publications
+ publications.xsd"
+	xmlns="http://xml.dzone.org/schema/publications"
+	xmlns:extras="http://xml.dzone.org/schema/publications">
+	<book id="_001">
+		<title>Beginning XML, 4th Edition </title>
+		<author>David Hunter</author>
+		<copyright>2007</copyright>
+		<publisher>Wrox</publisher>
+		<isbn kind="10">0470114878</isbn>
+	</book>
+	<book id="_002">
+		<title>XML in a Nutshell, Third Edition</title>
+		<author>O’Reilly Media, Inc</author>
+		<copyright>2004</copyright>
+		<publisher>O’Reilly Media, Inc.</publisher>
+		<isbn kind="10">0596007647</isbn>
+	</book>
+	<book id="_003" image="erik_xml.jpg" class="Class 12345">
+		<title>Learning XML, Second Edition</title>
+		<author>Erik Ray</author>
+		<copyright>2003</copyright>
+		<publisher>O’Reilly Media, Inc.</publisher>
+		<isbn kind="10">0596004206</isbn>
+	</book>
+</publications>
